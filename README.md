@@ -16,7 +16,7 @@
 ## 📖 Introduction to Git & GitHub
 
 ### 🔹 What is Git?
-Git is a version control system used to track changes in code.
+Git is a version control system used to track changes in files.
 
 ### 🔹 What is GitHub?
 GitHub is an online platform to store and share code.
@@ -43,15 +43,15 @@ GitHub is an online platform to store and share code.
 ---
 
 ## 📁 Sample File
-This repository contains a sample file for practice.
+This repository contains a sample file.
 
 ---
 
 ## 📫 Submission
 - GitHub Profile: https://github.com/mohammedthoufiq003-svg  
-- Repository Link: (your repo link)
+- Repository Link: https://github.com/mohammedthoufiq003-svg/Mohammed-thoufiq-R-
 
 ---
 
 ## 🌟 Conclusion
-This activity helped me understand GitHub basics and improve my technical skills.
+This activity helped me understand GitHub basics and improve my technical knowledge.
