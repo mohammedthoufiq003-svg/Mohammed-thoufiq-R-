@@ -1,30 +1,36 @@
-# 👋 Hi, I'm Mohammed Thoufiq R
+# 👋 Mohammed Thoufiq R
 
-🎓 **Student | AI & Data Science**  
-💡 Passionate about technology, innovation, and problem-solving  
+## 🎓 Student | AI & Data Science
 
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing Artificial Intelligence & Data Science
-- 💻 Interested in Web Development, AI, and Machine Learning
-- 📚 Always learning new technologies and improving my skills
-- 🎯 Goal: To become a successful software developer
+- I am a student learning Artificial Intelligence & Data Science
+- Interested in Web Development and Technology
+- Learning GitHub for project management
 
 ---
 
-## 🛠️ Skills
-- Programming: Python, C, Java (Basic)
-- Web: HTML, CSS, JavaScript
-- Tools: Git, GitHub, Canva
-- Concepts: Data Structures, AI Basics
+## 📂 GitHub Setup Activity
+This repository is created as part of GitHub learning activity.
 
-
----
-
-## 🌟 Fun Fact
-"I believe smart work + consistency = success 🚀"
+### Tasks Completed:
+- ✅ Created GitHub account
+- ✅ Updated profile
+- ✅ Created repository
+- ✅ Added README file
+- ✅ Uploaded sample content
 
 ---
 
-⭐ Don't forget to star this repository if you like it!
+## 📌 Sample File
+This is my first GitHub repository submission.
+
+---
+
+## 📫 Contact
+- Email: your-email@example.com
+
+---
+
+⭐ Thank you!
