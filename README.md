@@ -1,36 +1,57 @@
-# 👋 Mohammed Thoufiq R
+# 📘 GitHub Setup Activity
 
-## 🎓 Student | AI & Data Science
-
----
-
-## 🚀 About Me
-- I am a student learning Artificial Intelligence & Data Science
-- Interested in Web Development and Technology
-- Learning GitHub for project management
+## 👤 Name: Mohammed Thoufiq R  
+## 🎓 Department: AI & DS  
 
 ---
 
-## 📂 GitHub Setup Activity
-This repository is created as part of GitHub learning activity.
-
-### Tasks Completed:
-- ✅ Created GitHub account
-- ✅ Updated profile
-- ✅ Created repository
-- ✅ Added README file
-- ✅ Uploaded sample content
+## 🎯 Final Outcomes
+- GitHub account created successfully
+- Learned version control basics
+- Understood GitHub usage
+- Ready to use GitHub for projects
 
 ---
 
-## 📌 Sample File
-This is my first GitHub repository submission.
+## 📖 Introduction to Git & GitHub
+
+### 🔹 What is Git?
+Git is a version control system used to track changes in code.
+
+### 🔹 What is GitHub?
+GitHub is an online platform to store and share code.
+
+### 🔹 Difference
+- Git = Tool  
+- GitHub = Platform  
 
 ---
 
-## 📫 Contact
-- Email: your-email@example.com
+## 📂 Repository Details
+- Repository Name: Mohammed-thoufiq-R-
+- Type: Public
+- README file added
 
 ---
 
-⭐ Thank you!
+## ⚙️ Tasks Completed
+- ✅ Created GitHub account  
+- ✅ Updated profile  
+- ✅ Created repository  
+- ✅ Added README file  
+
+---
+
+## 📁 Sample File
+This repository contains a sample file for practice.
+
+---
+
+## 📫 Submission
+- GitHub Profile: https://github.com/mohammedthoufiq003-svg  
+- Repository Link: (your repo link)
+
+---
+
+## 🌟 Conclusion
+This activity helped me understand GitHub basics and improve my technical skills.
